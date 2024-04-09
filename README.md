@@ -2,7 +2,7 @@
 
 This Brick Breaker game is developed using Flame, a versatile 2D game engine for Flutter. The game is inspired by the classic arcade game Breakout, designed by Steve Wozniak in the 1970s. By leveraging the robust features of the Flame engine, this project showcases dynamic rendering of game components like the bat, ball, and bricks. Additionally, it utilizes Flame's animation capabilities to enhance the bat's movement and integrates seamlessly with Flutter's state management system to maintain a smooth and responsive gameplay experience.
 
-The game is built following best practices as demonstrated in the "Introduction to Flame with Flutter" by Brett Morgan, which serves as a foundational guide for integrating Flame's extensive functionalities with Flutter’s flexible UI capabilities.
+The game is built following best practices as demonstrated in the ["Introduction to Flame with Flutter"](https://codelabs.developers.google.com/codelabs/flutter-flame-brick-breaker) by Brett Morgan, which serves as a foundational guide for integrating Flame's extensive functionalities with Flutter’s flexible UI capabilities.
 
 ### Requirements
 
