@@ -1,4 +1,4 @@
-package com.example.breakout
+package ph.francisco.breakout
 
 import io.flutter.embedding.android.FlutterActivity
 
