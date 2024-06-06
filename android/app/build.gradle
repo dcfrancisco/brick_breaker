@@ -23,7 +23,7 @@ if (flutterVersionName == null) {
 }
 
 android {
-    namespace "com.example.breakout"
+    namespace "pf.francisco.breakout"
     compileSdk flutter.compileSdkVersion
     ndkVersion flutter.ndkVersion
 
